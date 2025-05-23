@@ -1,0 +1,22 @@
+Boss: Johnson! Get in here right now!
+Employee: Yes, sir. What seems to be the problem?
+Boss: What seems to be the problem? Are you serious? Look at these quarterly reports!
+Employee: The sales figures? I thought they were showing improvement since—
+Boss: IMPROVEMENT? We're down 12% from our targets! This is completely unacceptable!
+Employee: With all due respect, sir, if you look at page three, you'll see that—
+Boss: I don't need to look at page three! I need results, not excuses! The board meeting is in two days, and I have nothing positive to present!
+Employee: Sir, if I could just explain—
+Boss: You've had three months to explain! Three months to hit your targets! What have you been doing all this time?
+Employee: We lost the Hendrickson account due to circumstances beyond our control. Their company was acquired and—
+Boss: Then you should have found TWO new accounts to replace it! That's what I pay you for!
+Employee: I did bring in the Davidson contract last month, which will generate substantial—
+Boss: Not substantial enough! Everyone else hit their numbers! Why can't you?
+Employee: The market in my territory has been particularly challenging due to the new regulations.
+Boss: Challenges are meant to be overcome! That's why you get paid the big bucks!
+Employee: I understand, sir. What would you like me to do moving forward?
+Boss: FIX IT! I want a detailed plan on my desk by tomorrow morning showing exactly how you're going to make up this shortfall before the end of the next quarter!
+Employee: Yes, sir. I'll have it ready first thing.
+Boss: And Johnson?
+Employee: Yes, sir?
+Boss: If you miss your targets again next quarter, don't bother coming back from your Christmas vacation. Are we clear?
+Employee: Crystal clear, sir.

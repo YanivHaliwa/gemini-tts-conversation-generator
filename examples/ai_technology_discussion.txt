@@ -1,0 +1,8 @@
+Alice: Hi Bob, have you heard about the new AI tools from Google?
+Bob: Yes, the Gemini models are quite impressive! Have you tried them?
+Alice: I'm using one right now to generate this conversation.
+Bob: That's amazing! The voices sound so natural.
+Alice: I know! You can even assign different voices to different speakers.
+Bob: That's perfect for creating educational content or audio stories.
+Alice: Exactly. And it detects the speakers automatically from the script format.
+Bob: This is going to make creating dialogue-based content so much easier!
